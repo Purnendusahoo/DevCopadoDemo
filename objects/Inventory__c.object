@@ -175,6 +175,7 @@
         <trackTrending>false</trackTrending>
         <type>Currency</type>
     </fields>
+    
     <fields>
         <fullName>Stored_Quantity__c</fullName>
         <defaultValue>0</defaultValue>
